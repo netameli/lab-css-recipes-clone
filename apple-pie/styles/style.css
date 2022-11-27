@@ -1,0 +1,25 @@
+index.html
+<div class="image">
+	<p class="header"> Apple Pie </p>
+</div>
+
+styles.css
+
+.image {
+	<img src = "/Users/janset/lab-css-recipes-clone/apple-pie/images/apple-pie.jpg" width = "400" />
+}
+
+.header {
+	padding-top: 50px;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
+
+p {
+	font-family: Helvetica, sans-serif;
+  }
+
+  
+
+  
